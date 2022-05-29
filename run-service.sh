@@ -1,0 +1,1 @@
+java -jar target/sales-service-1.0.jar
